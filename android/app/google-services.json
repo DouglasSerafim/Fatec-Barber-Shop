@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206364635759",
+    "project_id": "barbershop-dce73",
+    "storage_bucket": "barbershop-dce73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206364635759:android:0e0aeb4622ddb8fc07d39a",
+        "android_client_info": {
+          "package_name": "com.example.trabalho_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206364635759-in5hnamr3bdrn01r1q1ek4gv1319hnb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDqy2nDSxztYOUWFz_4rFctLDJKWwo8UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206364635759-in5hnamr3bdrn01r1q1ek4gv1319hnb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
